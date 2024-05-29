@@ -1,0 +1,5 @@
+[
+    { "first_name" : "Samuel", "last_name" : "Kascak", "birthdate" : "2003-09-12T11:30:00Z", "gender" : "Slovakia", "age" : "Slovak Republic", "email" : "samok@gmail.com", "addressID" : "6655cdcb4d22e1ee5d7b7042" },
+    { "first_name" : "Helena", "last_name" : "Pravdova", "birthdate" : "2002-04-12T11:40:00Z", "gender" : "Slovakia", "age" : "Slovak Republic", "email" : "helenap@gmail.com", "addressID" : "6655cdcb4d22e1ee5d7b7043" },
+    { "first_name" : "Sebastian", "last_name" : "Knut", "birthdate" : "2005-02-12T11:35:00Z", "gender" : "Slovakia", "age" : "Slovak Republic", "email" : "sebastiank@gmail.com", "addressID" : "6655cdcb4d22e1ee5d7b7044" }
+]

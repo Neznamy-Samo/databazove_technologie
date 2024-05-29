@@ -1,0 +1,192 @@
+[
+    {
+      "name" : "Mother Nature",
+      "yearpublished" : 1999,
+      "ISBN" : "978-3-16-148410-0",
+      "pagecount" : 100,
+      "format" : "ebook",
+      "edition" : "First Edition",
+      "publicationdate" : "1990-09-12T11:30:00Z",
+      "weight" : 300.50,
+      "languagename" : "English",
+      "genres" : { "genrename" : "Nature", "genredescription" : "Books about natural phenomena it takes readers to the wilderness" },
+      "publishers" : { 
+        "publishername" : "Nature Books Ltd",
+        "founder" : "John Doe",
+        "website" : "http://naturebooksltd.com",
+        "addressID" : "6655cdcb4d22e1ee5d7b7047"
+      },
+      "events" : { 
+        "eventname" : "Book Launch",
+        "eventdate" : "1999-09-15T10:00:00Z",
+        "eventdescription" : "Launch event for the book Mother Nature"
+      },
+      "series" : { 
+        "seriesname" : "Nature Series",
+        "descriptionseries" : "A series exploring various aspects of nature including deep caves or high mountains"
+      },
+      "awards" : [
+        {
+          "awardname" : "Best Nature Book",
+          "awardyear" : 2000,
+          "organisationname" : "Nature Book Awards",
+          "awarddate" : "2000-11-01T12:00:00Z"
+        }
+      ],
+      "authors" : [
+        {
+          "firstname" : "Jane",
+          "lastname" : "Smith",
+          "nationality" : "England",
+          "bibliography" : "Various nature books, author of bestseller about mountains",
+          "website" : "http://janesmith.com",
+          "birthdate" : "1970-05-14T00:00:00Z"
+        },
+        {
+          "firstname" : "Jane",
+          "lastname" : "Griff",
+          "nationality" : "England",
+          "bibliography" : "Nature books is my priority i love nature as whole it shows people how we should appreciates it more. Author of Nature is our second home",
+          "website" : "http://janesmith.com",
+          "birthdate" : "1970-05-14T00:00:00Z"
+        }
+      ],
+      "reviews" : [
+        {
+          "userID" : "6655d59c4d22e1ee5d7b704b", 
+          "rating" : 4.5,
+          "reviewtext" : "An insightful book about nature.",
+          "reviewdate" : "1999-10-01T14:00:00Z"
+        },
+        {
+          "userID" : "6655d59c4d22e1ee5d7b704c", 
+          "rating" : 5.0,
+          "reviewtext" : "I love that it shows how we should take care of our nature it gives me chills sometimes 5/5.",
+          "reviewdate" : "1999-10-04T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "name" : "Whispering Racers",
+      "yearpublished" : 2005,
+      "ISBN" : "978-0-262-44445-9",
+      "pagecount" : 150,
+      "format" : "Physical",
+      "edition" : "Second Edition",
+      "publicationdate" : "2005-03-15T09:45:00Z",
+      "weight" : 320.75,
+      "languagename" : "English",
+      "genres" : { "genrename" : "Adventure", "genredescription" : "Books about racers who beat the time that will never be broken again!" },
+      "publishers" : { 
+        "publishername" : "Adventre Books Ltd",
+        "founder" : "Amedo Green",
+        "website" : "http://adventurebooksltd.com",
+        "addressID" : "6655cdcb4d22e1ee5d7b7046"
+      },
+      "events" : { 
+        "eventname" : "Book Signing",
+        "eventdate" : "2005-04-20T14:00:00Z",
+        "eventdescription" : "Book signing event for Whispering Racers"
+      },
+      "series" : { 
+        "seriesname" : "Racers Series",
+        "descriptionseries" : "A series exploring life of incredible people who does not stop when they were in problematic situations they show us how it can be done"
+      },
+      "awards" : [
+        {
+          "awardname" : "Readers' Choice",
+          "awardyear" : 2006,
+          "organisationname" : "Racers Readers",
+          "awarddate" : "2006-12-10T16:00:00Z"
+        }
+      ],
+      "authors" : [
+        {
+          "firstname" : "Jane",
+          "lastname" : "Solar",
+          "nationality" : "Slovak",
+          "bibliography" : "The book combines historical accounts, personal anecdotes, and interviews with racing legends to provide a comprehensive overview of the sport's evolution and its cultural impact.",
+          "website" : "http://janesolar.com",
+          "birthdate" : "1970-05-14T00:00:00Z"
+        },
+        {
+          "firstname" : "Paul",
+          "lastname" : "Johnson",
+          "nationality" : "Slovak",
+          "bibliography" : "renowned commentator, offers an insiders perspective on what it takes to succeed in the high-octane world of Formula 1 racing. The Winning Formula delves into the strategies, techniques, and mental toughness required to compete at the highest level of motorsport.",
+          "website" : "http://pauljohnson.com",
+          "birthdate" : "1965-08-22T00:00:00Z"
+        }
+      ],
+      "reviews" : [
+        {
+          "userID" : "6655d59c4d22e1ee5d7b704c", 
+          "rating" : 4.8,
+          "reviewtext" : "This book is a must-read for racing enthusiasts and anyone who loves an inspiring, true story of triumph against the odds.",
+          "reviewdate" : "2005-05-01T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "name" : "Shadows in the Alley",
+      "yearpublished" : 2010,
+      "ISBN" : "978-1-4028-9462-6",
+      "pagecount" : 180,
+      "format" : "ebook",
+      "edition" : "First Edition",
+      "publicationdate" : "2010-07-20T14:00:00Z",
+      "weight" : 290.00,
+      "languagename" : "Slovak",
+      "genres" : { "genrename" : "Detective", "genredescription" : "Books about mystery and crime solving" },
+      "publishers" : { 
+        "publishername" : "Mystery Books Ltd",
+        "founder" : "Jan Zoeni",
+        "website" : "http://mysterybooksltd.com",
+        "addressID" : "6655cdcb4d22e1ee5d7b7047"
+      },
+      "events" : { 
+        "eventname" : "Mystery Conference",
+        "eventdate" : "2010-08-15T09:00:00Z",
+        "eventdescription" : "Conference discussing the themes in Shadows in the Alley"
+      },
+      "series" : { 
+        "seriesname" : "Detective Series",
+        "descriptionseries" : "A series exploring various detective mysteries"
+      },
+      "awards" : [
+        {
+          "awardname" : "Best Crime Novel",
+          "awardyear" : 2011,
+          "organisationname" : "Crime Writers' Association",
+          "awarddate" : "2011-09-05T11:00:00Z"
+        }
+      ],
+      "authors" : [
+        {
+          "firstname" : "Samuel",
+          "lastname" : "Novak",
+          "nationality" : "Slovak",
+          "bibliography" : "Various detective novels",
+          "website" : "http://samuelnovak.com",
+          "birthdate" : "1970-05-14T00:00:00Z"
+        },
+        {
+          "firstname" : "Lisa",
+          "lastname" : "Miller",
+          "nationality" : "Slovak",
+          "bibliography" : "Studies on criminal psychology",
+          "website" : "http://lisamiller.com",
+          "birthdate" : "1978-12-02T00:00:00Z"
+        }
+      ],
+      "reviews" : [
+        {
+          "userID" : "6655d59c4d22e1ee5d7b704d", 
+          "rating" : 4.7,
+          "reviewtext" : "A gripping and intriguing detective story.",
+          "reviewdate" : "2010-09-01T12:00:00Z"
+        }
+      ]
+    }
+  ]
+  

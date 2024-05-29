@@ -1,0 +1,10 @@
+
+   [
+      { "street": "Hlavna", "postal_code": "08274","city": "Krivany","country":"Slovakia","state":"Slovak Republic"},
+      { "street": "Jozefa Vajora", "postal_code": "08277","city": "Torysa","country":"Slovakia","state":"Slovak Republic"},
+      { "street": "Uhlikova", "postal_code": "08276","city": "Olsov","country":"Slovakia","state":"Slovak Republic" },
+      { "street": "Zahlavna", "postal_code": "08274","city": "Lipany","country":"Slovakia","state":"Slovak Republic"},
+      { "street": "Nemethova", "postal_code": "08277","city": "Kosice","country":"Slovakia","state":"Slovak Republic"},
+      { "street": "Podzahradna", "postal_code": "06441","city": "Bratislava","country":"Slovakia","state":"Slovak Republic" }
+   ]
+
